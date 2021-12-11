@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1085929634902-g3q43rh7aejgsald9b5p83th61mm2odl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://atrapalosya-f84d4-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1085929634902</string>
+    <string name="google_api_key" translatable="false">AIzaSyDH8D9knTI20--2KVjZ1vtKtYABmnb4248</string>
+    <string name="google_app_id" translatable="false">1:1085929634902:android:1969e3d5cf22ee1e0ecff7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDH8D9knTI20--2KVjZ1vtKtYABmnb4248</string>
+    <string name="google_storage_bucket" translatable="false">atrapalosya-f84d4.appspot.com</string>
+    <string name="project_id" translatable="false">atrapalosya-f84d4</string>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_left.xml",
+        "source": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\src\\main\\res\\layout\\fragment_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_right.xml",
+        "source": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\src\\main\\res\\layout\\fragment_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_user.xml",
+        "source": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_destination.xml",
+        "source": "C:\\Users\\aldai\\AndroidStudioProjects\\pokemon\\app\\src\\main\\res\\layout\\fragment_destination.xml"
+    }
+]

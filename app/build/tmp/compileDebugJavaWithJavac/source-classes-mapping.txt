@@ -1,0 +1,19 @@
+com/example/pokemon/databinding/FragmentRightBinding.java
+ com.example.pokemon.databinding.FragmentRightBinding
+com/example/pokemon/databinding/ActivityMainBinding.java
+ com.example.pokemon.databinding.ActivityMainBinding
+com/example/pokemon/database/UserDao_Impl.java
+ com.example.pokemon.database.UserDao_Impl
+ com.example.pokemon.database.UserDao_Impl$1
+ com.example.pokemon.database.UserDao_Impl$2
+com/example/pokemon/databinding/ItemUserBinding.java
+ com.example.pokemon.databinding.ItemUserBinding
+com/example/pokemon/databinding/FragmentLeftBinding.java
+ com.example.pokemon.databinding.FragmentLeftBinding
+com/example/pokemon/database/AppDatabase_Impl.java
+ com.example.pokemon.database.AppDatabase_Impl
+ com.example.pokemon.database.AppDatabase_Impl$1
+com/example/pokemon/databinding/FragmentDestinationBinding.java
+ com.example.pokemon.databinding.FragmentDestinationBinding
+com/example/pokemon/BuildConfig.java
+ com.example.pokemon.BuildConfig
